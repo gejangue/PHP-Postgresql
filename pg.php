@@ -1,5 +1,5 @@
 <?php
-    $host = 'localhost';
+    $host = 'postgresql';
     $dbname = 'databasename';
     $username = 'databaseuser';
     $password = 'databasepassword';
